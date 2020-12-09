@@ -24,6 +24,6 @@ int main(){
     }
 
     // The main attraction
-    recurse(nums, 0);
+    recurse(nums);
     return 0;
 }
